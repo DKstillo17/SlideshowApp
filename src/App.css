@@ -36,3 +36,20 @@
     transform: rotate(360deg);
   }
 }
+
+#navegacion {
+  margin-bottom: 2rem;
+}
+
+#navegacion button {
+  margin-top: 1rem;
+  margin-right: 1rem;
+}
+
+#diapositiva {
+  border: 1px solid #eee;
+  padding: 1rem;
+  min-height: 300px;
+}
+
+
